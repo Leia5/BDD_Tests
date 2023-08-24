@@ -6,4 +6,3 @@ Feature: tests for login page
     When I insert the password "asd145"
     When I click the loggin button
     Then I see no account error displayed
-x
